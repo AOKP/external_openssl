@@ -1,0 +1,8 @@
+Change-Id: I525869275125edb7a1cba62c96db12847ca116fe
+Code-Review+2: Roman Birg <romanbirg@gmail.com>
+Verified+1: Roman Birg <romanbirg@gmail.com>
+Submitted-by: Roman Birg <romanbirg@gmail.com>
+Submitted-at: Mon, 11 Jun 2012 21:48:46 -0500
+Reviewed-on: http://gerrit.sudoservers.com/1335
+Project: AOKP/external_openssl
+Branch: refs/heads/ics
